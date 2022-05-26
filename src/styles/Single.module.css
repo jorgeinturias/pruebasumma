@@ -57,6 +57,11 @@
     color: white;
     text-transform: uppercase;
     font-weight: bold;
+    transition: all 0.3s;
+}
+.btn:hover{
+    cursor: pointer;
+    background: #508b23;
 }
 
 @media(min-width:580px){
