@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    margin: 0 auto;
+    padding: 0 10px;
+    max-width: 1140px;
+    box-sizing: border-box;
+}
+@media(min-width:580px){
+    .wrapper{
+        padding: 0 15px;
+    }
+}
+
+img{
+    max-width: 100%;
+}
